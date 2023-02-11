@@ -1,0 +1,15 @@
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\bin\Debug\net6.0\task6.exe
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\bin\Debug\net6.0\task6.deps.json
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\bin\Debug\net6.0\task6.runtimeconfig.json
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\bin\Debug\net6.0\task6.dll
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\bin\Debug\net6.0\task6.pdb
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\task6.csproj.AssemblyReference.cache
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\task6.AssemblyInfoInputs.cache
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\task6.AssemblyInfo.cs
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\task6.csproj.CoreCompileInputs.cache
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\task6.dll
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\refint\task6.dll
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\task6.pdb
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\task6.genruntimeconfig.cache
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task6\obj\Debug\net6.0\ref\task6.dll

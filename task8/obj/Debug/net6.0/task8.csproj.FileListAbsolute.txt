@@ -1,0 +1,15 @@
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\task8.csproj.AssemblyReference.cache
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\task8.AssemblyInfoInputs.cache
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\task8.AssemblyInfo.cs
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\task8.csproj.CoreCompileInputs.cache
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\bin\Debug\net6.0\task8.exe
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\bin\Debug\net6.0\task8.deps.json
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\bin\Debug\net6.0\task8.runtimeconfig.json
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\bin\Debug\net6.0\task8.dll
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\bin\Debug\net6.0\task8.pdb
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\task8.dll
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\refint\task8.dll
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\task8.pdb
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\task8.genruntimeconfig.cache
+D:\Geekbreans\GeekBrains\WORK C#\1HomeWorkC#AL\task8\obj\Debug\net6.0\ref\task8.dll
